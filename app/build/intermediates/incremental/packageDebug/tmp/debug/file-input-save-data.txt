@@ -1,0 +1,31 @@
+#Internal package file, do not edit.
+#Fri Oct 23 14:13:44 EAT 2020
+3.set=ASSET
+3.path=LICENSE.md
+2.base=/home/musicalcoder/Pictures/Locator/StoreLocator/app/build/intermediates/transforms/mergeJniLibs/debug/0
+0.path=classes.dex
+5.base=/home/musicalcoder/Pictures/Locator/StoreLocator/app/build/intermediates/transforms/mergeJniLibs/debug/0
+6.baseType=DIRECTORY
+0.base=/home/musicalcoder/Pictures/Locator/StoreLocator/app/build/intermediates/dex/debug/mergeDexDebug/out
+3.base=/home/musicalcoder/Pictures/Locator/StoreLocator/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+6.base=/home/musicalcoder/Pictures/Locator/StoreLocator/app/build/intermediates/transforms/mergeJniLibs/debug/0
+5.path=lib/x86_64/libmapbox-gl.so
+3.baseType=DIRECTORY
+1.path=list_of_locations.geojson
+4.set=NATIVE_RESOURCE
+0.baseType=DIRECTORY
+0.set=DEX
+5.baseType=DIRECTORY
+6.set=NATIVE_RESOURCE
+4.path=lib/arm64-v8a/libmapbox-gl.so
+count=7
+5.set=NATIVE_RESOURCE
+1.set=ASSET
+2.path=lib/x86/libmapbox-gl.so
+2.baseType=DIRECTORY
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+4.base=/home/musicalcoder/Pictures/Locator/StoreLocator/app/build/intermediates/transforms/mergeJniLibs/debug/0
+1.base=/home/musicalcoder/Pictures/Locator/StoreLocator/app/build/intermediates/merged_assets/debug/mergeDebugAssets/out
+4.baseType=DIRECTORY
+6.path=lib/armeabi-v7a/libmapbox-gl.so

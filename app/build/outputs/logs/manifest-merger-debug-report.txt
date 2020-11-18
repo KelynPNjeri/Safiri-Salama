@@ -1,0 +1,259 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/9f417216918dbba193f173e577e71aa8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/c9cfb6c51fdea8b1baf3329e8049cc5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/808b7c0808987840fee9034f68f81ada/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d2daa104c373f3c0557e62127ec289fd/AndroidManifest.xml:2:1-11:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-building-v7:0.5.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-plugin-building-v7-0.5.0.aar/b6609d1b4a29d79c7016f641202dced5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-sdk-8.1.0.aar/5e3f8d84618ae4c0bcd1641f4021ef22/AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/cb8da6bf8467aaf8ca2dff26393c85a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/09f85fa92e79ab4b8006abf6c1cef855/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/7af70205b8292c466db3e27a749e2c8b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/78e09f756dbf4054b33c6f8fdc4e4fe8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/8e0d7bac5d34eefe51bc155a3f221795/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/b2e8096c59b42a3afd6aacbb96631729/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/34b84db09193a82e00841e9c85e0d063/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6e9600b2658bf1ff051d69231ed41a7c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/2f424f8f1dc9b37713163c8506272547/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/35a0d5fcf734bb48a34a2135d91b1208/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/a90a2140dea4a1393ef78e6e776f8bd3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/f26d30c87317b43dff24c3fb3441b406/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/ebe0d848e1bb1817d87f3b5c9562f1c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/58b397601b770199d59e46e9cf54a3a1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/31febfaf08c69aea5c950fc265d7b4e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.4.2] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-gestures-0.4.2.aar/b6bc7a184ecbcb73e103037b68180573/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/62d21029644b16bfb1719405621a71e5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/3b3bfb858e287c65f55feb9aaedf3373/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1387917b4b1edebeeea9ee2e46900358/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/c3b0048a21b7f5874fda24fbf14b5252/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/97fa86dac2700222df5007fef49d1263/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/9afcbc3e7319ad0bdcb67a52d0ab1be0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/8f0b57801dcddb6aab5d286a9b250cfd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/ad32615b27c340cf561aa6907ac32fcb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0e084f5665d2fac1f89dd790b83d479a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/2d13a1295bff2cc05e7de48018147823/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/ab9788138fcaf57aaf775004a6236e29/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6138405e7605b10cd6c88149948c345f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.2.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-accounts-0.2.0.aar/46098673854444091b8e5fd3e792d606/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/294f3441249509e9a146d03caf9e29d2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-core-1.3.0.aar/fc421eac2ed82ce7f7cfaf5b2139062a/AndroidManifest.xml:2:1-14:12
+INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:3:11-44
+		INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+		INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:5:5-78
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-core-1.3.0.aar/fc421eac2ed82ce7f7cfaf5b2139062a/AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-core-1.3.0.aar/fc421eac2ed82ce7f7cfaf5b2139062a/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:6:5-78
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-sdk-8.1.0.aar/5e3f8d84618ae4c0bcd1641f4021ef22/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-sdk-8.1.0.aar/5e3f8d84618ae4c0bcd1641f4021ef22/AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:14:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:14:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-core-1.3.0.aar/fc421eac2ed82ce7f7cfaf5b2139062a/AndroidManifest.xml:12:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-core-1.3.0.aar/fc421eac2ed82ce7f7cfaf5b2139062a/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:8:5-23:19
+MERGED from [com.google.android.material:material:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/9f417216918dbba193f173e577e71aa8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/9f417216918dbba193f173e577e71aa8/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d2daa104c373f3c0557e62127ec289fd/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d2daa104c373f3c0557e62127ec289fd/AndroidManifest.xml:9:5-20
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:18:5-28:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:18:5-28:19
+MERGED from [androidx.core:core:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/62d21029644b16bfb1719405621a71e5/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/62d21029644b16bfb1719405621a71e5/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/3b3bfb858e287c65f55feb9aaedf3373/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/3b3bfb858e287c65f55feb9aaedf3373/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/294f3441249509e9a146d03caf9e29d2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/294f3441249509e9a146d03caf9e29d2/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/62d21029644b16bfb1719405621a71e5/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:11:9-47
+	android:roundIcon
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:9:9-36
+	android:theme
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:14:9-45
+activity#com.mapbox.storelocator.activity.MapActivity
+ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:15:9-80
+	android:name
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:15:19-78
+activity#com.mapbox.storelocator.activity.ThemePickerActivity
+ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:16:19-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/9f417216918dbba193f173e577e71aa8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/9f417216918dbba193f173e577e71aa8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/c9cfb6c51fdea8b1baf3329e8049cc5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/c9cfb6c51fdea8b1baf3329e8049cc5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/808b7c0808987840fee9034f68f81ada/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/808b7c0808987840fee9034f68f81ada/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d2daa104c373f3c0557e62127ec289fd/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/d2daa104c373f3c0557e62127ec289fd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-building-v7:0.5.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-plugin-building-v7-0.5.0.aar/b6609d1b4a29d79c7016f641202dced5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-building-v7:0.5.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-plugin-building-v7-0.5.0.aar/b6609d1b4a29d79c7016f641202dced5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-sdk-8.1.0.aar/5e3f8d84618ae4c0bcd1641f4021ef22/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-sdk-8.1.0.aar/5e3f8d84618ae4c0bcd1641f4021ef22/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/cb8da6bf8467aaf8ca2dff26393c85a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/cb8da6bf8467aaf8ca2dff26393c85a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/09f85fa92e79ab4b8006abf6c1cef855/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/09f85fa92e79ab4b8006abf6c1cef855/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/7af70205b8292c466db3e27a749e2c8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/7af70205b8292c466db3e27a749e2c8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/78e09f756dbf4054b33c6f8fdc4e4fe8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/78e09f756dbf4054b33c6f8fdc4e4fe8/AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/8e0d7bac5d34eefe51bc155a3f221795/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/8e0d7bac5d34eefe51bc155a3f221795/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/b2e8096c59b42a3afd6aacbb96631729/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/b2e8096c59b42a3afd6aacbb96631729/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/34b84db09193a82e00841e9c85e0d063/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/34b84db09193a82e00841e9c85e0d063/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6e9600b2658bf1ff051d69231ed41a7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6e9600b2658bf1ff051d69231ed41a7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/2f424f8f1dc9b37713163c8506272547/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/2f424f8f1dc9b37713163c8506272547/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/35a0d5fcf734bb48a34a2135d91b1208/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/35a0d5fcf734bb48a34a2135d91b1208/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/a90a2140dea4a1393ef78e6e776f8bd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/a90a2140dea4a1393ef78e6e776f8bd3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/f26d30c87317b43dff24c3fb3441b406/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/f26d30c87317b43dff24c3fb3441b406/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/ebe0d848e1bb1817d87f3b5c9562f1c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/ebe0d848e1bb1817d87f3b5c9562f1c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/58b397601b770199d59e46e9cf54a3a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/58b397601b770199d59e46e9cf54a3a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/31febfaf08c69aea5c950fc265d7b4e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/31febfaf08c69aea5c950fc265d7b4e0/AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.4.2] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-gestures-0.4.2.aar/b6bc7a184ecbcb73e103037b68180573/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.4.2] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-gestures-0.4.2.aar/b6bc7a184ecbcb73e103037b68180573/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.core:core:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/62d21029644b16bfb1719405621a71e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/62d21029644b16bfb1719405621a71e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/3b3bfb858e287c65f55feb9aaedf3373/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/3b3bfb858e287c65f55feb9aaedf3373/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1387917b4b1edebeeea9ee2e46900358/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1387917b4b1edebeeea9ee2e46900358/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/c3b0048a21b7f5874fda24fbf14b5252/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/c3b0048a21b7f5874fda24fbf14b5252/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/97fa86dac2700222df5007fef49d1263/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/97fa86dac2700222df5007fef49d1263/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/9afcbc3e7319ad0bdcb67a52d0ab1be0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/9afcbc3e7319ad0bdcb67a52d0ab1be0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/8f0b57801dcddb6aab5d286a9b250cfd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/8f0b57801dcddb6aab5d286a9b250cfd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/ad32615b27c340cf561aa6907ac32fcb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/ad32615b27c340cf561aa6907ac32fcb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0e084f5665d2fac1f89dd790b83d479a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0e084f5665d2fac1f89dd790b83d479a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/2d13a1295bff2cc05e7de48018147823/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/2d13a1295bff2cc05e7de48018147823/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/ab9788138fcaf57aaf775004a6236e29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/ab9788138fcaf57aaf775004a6236e29/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6138405e7605b10cd6c88149948c345f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6138405e7605b10cd6c88149948c345f/AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.2.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-accounts-0.2.0.aar/46098673854444091b8e5fd3e792d606/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.2.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-accounts-0.2.0.aar/46098673854444091b8e5fd3e792d606/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/294f3441249509e9a146d03caf9e29d2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/294f3441249509e9a146d03caf9e29d2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-core-1.3.0.aar/fc421eac2ed82ce7f7cfaf5b2139062a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-core-1.3.0.aar/fc421eac2ed82ce7f7cfaf5b2139062a/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+		INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+		ADDED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+		INJECTED from /home/musicalcoder/Pictures/Locator/StoreLocator/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-sdk-8.1.0.aar/5e3f8d84618ae4c0bcd1641f4021ef22/AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-sdk-8.1.0.aar/5e3f8d84618ae4c0bcd1641f4021ef22/AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-sdk-8.1.0.aar/5e3f8d84618ae4c0bcd1641f4021ef22/AndroidManifest.xml:11:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-sdk-8.1.0.aar/5e3f8d84618ae4c0bcd1641f4021ef22/AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-sdk-8.1.0.aar/5e3f8d84618ae4c0bcd1641f4021ef22/AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-sdk-8.1.0.aar/5e3f8d84618ae4c0bcd1641f4021ef22/AndroidManifest.xml:13:9-45
+uses-permission#android.permission.INTERNET
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-sdk-8.1.0.aar/5e3f8d84618ae4c0bcd1641f4021ef22/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-sdk-8.1.0.aar/5e3f8d84618ae4c0bcd1641f4021ef22/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-sdk-8.1.0.aar/5e3f8d84618ae4c0bcd1641f4021ef22/AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:15:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-sdk-8.1.0.aar/5e3f8d84618ae4c0bcd1641f4021ef22/AndroidManifest.xml:18:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:12:22-65
+provider#com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:21:13-79
+	android:exported
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:20:13-93
+service#com.mapbox.android.telemetry.crash.CrashReporterJobIntentService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:25:9-27:72
+	android:permission
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/musicalcoder/.gradle/caches/transforms-1/files-1.1/jetified-mapbox-android-telemetry-4.5.1.aar/ec27c2809404feccd7f59594fb644ff5/AndroidManifest.xml:26:13-92

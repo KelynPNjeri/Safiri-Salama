@@ -1,0 +1,85 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rupa Mall",
+        "hours": "6am - 5pm",
+        "phone": "(555) 555-4355",
+        "description": "This is an all in one shopping complex. Have all your needs met under one roof."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.966889,
+          40.761926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jumia",
+        "hours": "9am - 4pm",
+        "phone": "(555) 555-9430",
+        "description": "This is a pickup and drop off point for the Jumia online store."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.970048,
+          40.789752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilimani Mall",
+        "hours": "10am - 8pm",
+        "phone": "(555) 555-4839",
+        "description": "This is a pickup and drop off point for the Kilimani Mall online store."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.028076,
+          40.75122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jade Collection",
+        "hours": "8am - 5:30pm",
+        "phone": "(555) 555-1989",
+        "description": "Looking for classy clothes, then come and check out our beautiful store."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.000808,
+          40.719723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naivas",
+        "hours": "9:30am - 6pm",
+        "phone": "(555) 555-4345",
+        "description": "This is a shopping complex where you can do all your shopping under one roof."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.984496,
+          40.696141
+        ]
+      }
+    }
+  ]
+}
